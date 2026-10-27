@@ -33,7 +33,7 @@ I'm a Web Developer with hands-on experience improving responsive websites and u
 G. Pullaiah College of Engineering and Technology (GPCET)
 
 ## 📄 Resume
-[View My Resume (PDF)](https://github.com/sheik-aslam-basha/Resume/blob/main/Aslam_Sheik_Clean_Web_Developer_Resume.pdf)
+[Aslam Sheik (PDF)](https://github.com/sheik-aslam-basha/Resume/blob/main/Aslam_Sheik_Clean_Web_Developer_Resume.pdf)
 
 ## 📫 Contact
 - Email: aslambasha1433@gmail.com
